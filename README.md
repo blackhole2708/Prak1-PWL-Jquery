@@ -1,6 +1,9 @@
 ## Prak1-PWL-Jquery
-#### Hasiholan Owen Ambarita
-#### 119140173
+```
+Nama    : Hasiholan Owen Ambarita
+NIM     : 119140173
+Kelas   : Pemrograman Web Lanjut (RA)
+```
 
 <img src="https://github.com/blackhole2708/Prak1-PWL-Jquery/blob/main/SS/Beranda.png?raw=true">
 
